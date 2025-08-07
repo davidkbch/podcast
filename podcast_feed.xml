@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Mein Podcast</title>
+    <link>https://drive.google.com/drive/folders/19m1jUpP7QvoidcsvSNnwkA7tuOe6OwgV</link>
+    <description>Automatisch erstellter Podcast-Feed aus Google Drive MP3-Dateien.</description>
+    <language>de-de</language>
+    <item>
+      <title>Folge_01_Begruessung</title>
+      <description>Episode 1: Folge 01 Begruessung</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZzKFA-AkhQjFxK7KrR6ufcg_R6BC-vvb" length="0" type="audio/mpeg"/>
+      <guid>1ZzKFA-AkhQjFxK7KrR6ufcg_R6BC-vvb</guid>
+      <pubDate>Fri, 01 Aug 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Folge_02_Schnarchen</title>
+      <description>Episode 2: Folge 02 Schnarchen</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1s_Cl6CugBvTb1eluk9MDYkACzOboCIq3" length="0" type="audio/mpeg"/>
+      <guid>1s_Cl6CugBvTb1eluk9MDYkACzOboCIq3</guid>
+      <pubDate>Sat, 02 Aug 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Folge_03_Metaphern</title>
+      <description>Episode 3: Folge 03 Metaphern</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Tb1v2YJtQ8T-M7H4ZQ7Ahk_M2YjYiIR0" length="0" type="audio/mpeg"/>
+      <guid>1Tb1v2YJtQ8T-M7H4ZQ7Ahk_M2YjYiIR0</guid>
+      <pubDate>Sun, 03 Aug 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Folge_04_Stimme_und_Koerper</title>
+      <description>Episode 4: Folge 04 Stimme und Koerper</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PzyTEJbHeZr4EGu3voPB_dJAC7AbvDYA" length="0" type="audio/mpeg"/>
+      <guid>1PzyTEJbHeZr4EGu3voPB_dJAC7AbvDYA</guid>
+      <pubDate>Mon, 04 Aug 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Folge_05_Atem_und_Rhythmus</title>
+      <description>Episode 5: Folge 05 Atem und Rhythmus</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kMZkkmcW5uXnmnRW_-I8Bzq1eVoMxA43" length="0" type="audio/mpeg"/>
+      <guid>1kMZkkmcW5uXnmnRW_-I8Bzq1eVoMxA43</guid>
+      <pubDate>Tue, 05 Aug 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Folge_06_Sprechdenken</title>
+      <description>Episode 6: Folge 06 Sprechdenken</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1r40VooWxS1if8p5G_53_37DA0cVq-FB4" length="0" type="audio/mpeg"/>
+      <guid>1r40VooWxS1if8p5G_53_37DA0cVq-FB4</guid>
+      <pubDate>Wed, 06 Aug 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Folge_07_Haltung</title>
+      <description>Episode 7: Folge 07 Haltung</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ALebM0V9vWcoU6AhNAtUuHJmI0ZBMTq6" length="0" type="audio/mpeg"/>
+      <guid>1ALebM0V9vWcoU6AhNAtUuHJmI0ZBMTq6</guid>
+      <pubDate>Thu, 07 Aug 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Folge_08_Sprechen_als_Handeln</title>
+      <description>Episode 8: Folge 08 Sprechen als Handeln</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KPmleBNzME_X1pWHe0Ltb5ODZhzHtEjQ" length="0" type="audio/mpeg"/>
+      <guid>1KPmleBNzME_X1pWHe0Ltb5ODZhzHtEjQ</guid>
+      <pubDate>Fri, 08 Aug 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Folge_09_Stimmklang</title>
+      <description>Episode 9: Folge 09 Stimmklang</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1k-1OhzAF3ErK6TP7HZR2gRQZVXxeEMT-" length="0" type="audio/mpeg"/>
+      <guid>1k-1OhzAF3ErK6TP7HZR2gRQZVXxeEMT-</guid>
+      <pubDate>Sat, 09 Aug 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Folge_10_Wahrnehmung</title>
+      <description>Episode 10: Folge 10 Wahrnehmung</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IdXxgcDn4S0HYMIOr6py4spCP41S_C6j" length="0" type="audio/mpeg"/>
+      <guid>1IdXxgcDn4S0HYMIOr6py4spCP41S_C6j</guid>
+      <pubDate>Sun, 10 Aug 2025 12:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
